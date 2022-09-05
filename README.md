@@ -1,5 +1,5 @@
 # News-App
-## Screenshots
+# Screenshots
 <br>
 <table>
     <tr>
