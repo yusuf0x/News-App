@@ -1,23 +1,15 @@
 # News-App
 ## Screenshots
 <br>
-
 <table>
     <tr>
-        <td><img src = "/screenshots/screenshot1.png" ></td>
-        <td><img src = "/screenshots/screenshot2.png" ></td>
-        <td><img src = "/screenshots/screenshot3.png" ></td>
+        <td><img src = "/Screenshots/1.png" ></td>
+        <td><img src = "/Screenshots/2.png" ></td>
     </tr>
     <tr>
-        <td><img src = "/screenshots/screenshot4.png" ></td>
-        <td><img src = "/screenshots/screenshot5.png" ></td>
-        <td><img src = "/screenshots/screenshot6.png" ></td>
-    </tr>
-    <tr>
-        <td><img src = "/screenshots/screenshot7.png" ></td>
+        <td><img src = "/Screenshots/3.png" ></td>
+        <td><img src = "/Screenshots/4.png" ></td>
     </tr>
 </table>    
+<br>
 
-<br>
-<hr>
-<br>
