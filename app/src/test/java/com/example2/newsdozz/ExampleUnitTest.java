@@ -1,4 +1,4 @@
-package com.example2.newsdozz;
+package com.example2.newsapp;
 
 import org.junit.Test;
 

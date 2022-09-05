@@ -1,4 +1,4 @@
-package com.example2.newsdozz;
+package com.example2.newsapp;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -33,8 +33,8 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 
-import com.example2.newsdozz.helper.SimpleItemTouchHelperCallback;
-import com.example2.newsdozz.model.NewsData;
+import com.example2.newsapp.helper.SimpleItemTouchHelperCallback;
+import com.example2.newsapp.model.NewsData;
 
 import org.json.JSONArray;
 import org.json.JSONException;

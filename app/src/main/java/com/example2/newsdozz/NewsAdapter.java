@@ -1,4 +1,4 @@
-package com.example2.newsdozz;
+package com.example2.newsapp;
 
 import android.content.Context;
 
@@ -14,9 +14,9 @@ import com.bumptech.glide.Glide;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example2.newsdozz.helper.ItemTouchHelperAdapter;
-import com.example2.newsdozz.helper.ItemTouchHelperViewHolder;
-import com.example2.newsdozz.model.NewsData;
+import com.example2.newsapp.helper.ItemTouchHelperAdapter;
+import com.example2.newsapp.helper.ItemTouchHelperViewHolder;
+import com.example2.newsapp.model.NewsData;
 
 import java.util.ArrayList;
 

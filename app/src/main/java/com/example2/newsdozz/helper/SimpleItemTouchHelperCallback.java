@@ -1,4 +1,4 @@
-package com.example2.newsdozz.helper;
+package com.example2.newsapp.helper;
 
 import android.util.Log;
 import android.widget.Toast;

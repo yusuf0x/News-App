@@ -1,4 +1,4 @@
-package com.example2.newsdozz;
+package com.example2.newsapp;
 
 public  class Constants {
 

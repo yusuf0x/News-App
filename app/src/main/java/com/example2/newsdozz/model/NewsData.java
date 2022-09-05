@@ -1,4 +1,4 @@
-package com.example2.newsdozz.model;
+package com.example2.newsapp.model;
 
 public class NewsData {
     private  String title;

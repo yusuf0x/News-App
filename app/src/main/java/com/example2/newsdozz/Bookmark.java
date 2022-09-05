@@ -1,4 +1,4 @@
-package com.example2.newsdozz;
+package com.example2.newsapp;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.DefaultItemAnimator;
@@ -13,7 +13,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example2.newsdozz.model.NewsData;
+import com.example2.newsapp.model.NewsData;
 
 import java.util.ArrayList;
 
