@@ -1,7 +1,6 @@
 package com.example2.newsapp.helper;
 
 import android.util.Log;
-import android.widget.Toast;
 
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.RecyclerView;
